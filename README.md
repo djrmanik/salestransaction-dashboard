@@ -1,4 +1,4 @@
-# UAS Cloud - Observable Web Application
+# UAS Cloud - Observability: Stack Monitoring (Prometheus + Grafana)
 
 This is a containerized web application designed for the Cloud Services UAS project. It demonstrates backend processing, system observability, and monitoring using the Prometheus/Grafana stack.
 
